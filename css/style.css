@@ -5,9 +5,10 @@
   box-sizing: border-box;
 }
 body {
-  background: #fdfdfd;
+  background: #222;
   font-family: "Nunito", sans-serif;
   font-size: 1rem;
+  color: #fff;
 }
 main {
   max-width: 900px;
