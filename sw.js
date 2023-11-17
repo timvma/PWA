@@ -1,6 +1,6 @@
 const CACHE_NAME = 'v0.0.13';
 const urlsToCache = [
-    '/',
+    '/PWA/',
     "/PWA/index.html",
     "/PWA/css/style.css",
     "/PWA/js/app.js",
