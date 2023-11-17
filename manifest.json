@@ -1,7 +1,8 @@
 {
     "name": "PWA",
     "short_name": "PWA",
-    "start_url": "/PWA/index.html",
+    "scope":"/PWA/",
+    "start_url": "/PWA/",
     "display": "standalone",
     "background_color": "#fdfdfd",
     "theme_color": "#db4938",
