@@ -7,6 +7,7 @@ const urlsToCache = [
     "/PWA/manifest.json",
 ];
 
+
 // sw.js
 self.addEventListener('install', event => {
     event.waitUntil(
