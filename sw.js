@@ -1,4 +1,4 @@
-const CACHE_NAME = 'v0.0.14';
+const CACHE_NAME = 'v0.0.15';
 const GITHUB_REPO_PATH = "/PWA"
 const urlsToCache = [
 
