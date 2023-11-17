@@ -1,10 +1,10 @@
 const CACHE_NAME = 'v0.0.9';
 const urlsToCache = [
     '/',
-    "/index.html",
-    "/css/style.css",
-    "/js/app.js",
-    "/manifest.json",
+    "/PWA/index.html",
+    "/PWA/css/style.css",
+    "/PWA/js/app.js",
+    "/PWA/manifest.json",
 ];
 
 // sw.js
